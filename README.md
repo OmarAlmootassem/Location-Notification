@@ -15,3 +15,6 @@ This activity is launched when the floating action button in the previous activi
 After adding a preset or 2, the Main Activity will update and display cards with information about the presets including location name, static map image and sound profile for that location. The static map images are generated using Google Static Maps API.
 
 ![Main Screen](https://lh3.googleusercontent.com/lO8ERdN1Yi5EI6-2v6NdaqQ996KJ4zELWfOwMknA5mzR_TV-ojyNrAlUHecXmmf1JXNlXPrmuCg0PBywIQc7ISI6ateimBi-Ndm6t3eqsjOJ2MXCLsyiS8XBA9M8DsLWYGODnxZM4e_aAVIBRO4_gGrDyEdqAlHNnifReRwqHHWyjarLElFFG2-dYP9bHrnL-GKq5OhftBt-se7zQ5T9I2XL9upwST-Y7gawRokcLLyUsdIRriVkHgilKP9k-6_cPJyEh4IRCWlybaVeG9KmLJpT4KxW2ncsBTbiKsC0UQTA7FkcJ_1ua3KOUzDLd8D4Y_TuEY58UtZGi2SfdsgO2GI4W1j8_8O3FN3m5Ev1vahFCbgDlkPCWn8MVpFFOsHoIXrwZovnPA5A7ro7Fp5KqkiivBSgyqI_ortHgQJqzVXyF6RNP6q1Us7h_UocH4s999nN293SgwBFaIHnejEH7FL7SkAITUR8jSyENVSrf_Y6RRoyHL8h0oF83oFWswZFlHqo_OScYiVg37uLxlvOn2vTdPuYazEjpWPr6xuoLr_weZwXJSlfraEx7Tm0-vx0HWyK=w551-h979-no)
+
+.....
+![Main](blob:https%3A//drive.google.com/522cc981-48ff-486b-aa34-55c608a1cd52)
